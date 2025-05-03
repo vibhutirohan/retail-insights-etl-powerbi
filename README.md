@@ -32,7 +32,7 @@ ORDER BY total_sales DESC;
 ```
 
 ## 🧷 Dataset Link
-[Retail Transactions Dataset (Kaggle)](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data)
+https://www.kaggle.com/datasets/prasad22/retail-transactions-dataset/data
 
 ## 📁 Folder Structure
 ```
